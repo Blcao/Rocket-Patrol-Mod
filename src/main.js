@@ -1,3 +1,18 @@
+/*
+Name: Brian Cao
+Project: Rocket Patrol Mod
+Date: 4/22/21
+Time Invested So Far: 11 hours
+
+Points Breakdown:
+parallax scrolling - 10
+Display timer - 10
+Add time per hit - 20 
+new, faster ship that's worth more points - 20
+simultaneous co-op - 30
+new assets for rockets and spaceships (still need to make explosion animation) - 20
+*/
+
 console.log("hello from main.js");
 let config = {
     type: Phaser.CANVAS,
